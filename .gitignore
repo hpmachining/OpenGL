@@ -3,6 +3,7 @@
 **bin-int/
 !/vendor/bin
 run/
+**build/
 
 # Files
 *.user
